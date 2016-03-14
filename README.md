@@ -1,2 +1,2 @@
 
-Portfolio Display of My Work (progressing)
+Portfolio Display of My Work (Coming Soon)
