@@ -1,3 +1,3 @@
 
 Portfolio Display of My Work 
-(Coming Soon)
+(Work in Progress; will Upload Soon)
