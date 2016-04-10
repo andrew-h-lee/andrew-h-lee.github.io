@@ -1,3 +1,4 @@
 
-Portfolio Display of My Work 
+Portfolio: Displaying Work
+
 (Work in Progress; will Upload Soon)
