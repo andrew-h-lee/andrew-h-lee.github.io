@@ -1,3 +1,3 @@
 ## Acknowledgement
-* (Lanyon Theme)[https://github.com/poole/lanyon]
-* 
+* [Lanyon Theme](https://github.com/poole/lanyon)
+*
