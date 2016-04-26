@@ -24,10 +24,3 @@ author:
 
 # Custom vars
 version:             1.0.0
-
-
-markdown:         kramdown
-highlighter:      rouge # changed from `pygments` as github says so
-
-# Permalinks
-permalink:        pretty
