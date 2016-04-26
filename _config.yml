@@ -16,11 +16,8 @@ paginate:            5
 # About/contact
 author:
   name:              Andrew H. Lee
-  twitter:           'andrew_h_lee'
-  email:             'andrew.lee87[at]hotmail[dot]com'
-  github:            'andrew-h-lee'
-  behance:
-  linkedin:
+  url:               https://twitter.com/andrew_h_lee
+  email:             andrew.lee87@hotmail.com
 
 # Custom vars
 version:             1.0.0
