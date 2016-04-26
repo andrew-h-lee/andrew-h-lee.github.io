@@ -8,16 +8,26 @@ gems :
 # Setup
 title:               Andrew H. Lee
 tagline:             'Full Stack Web Developer'
-description:         'A Made by <a href="https://twitter.com/" target="_blank">@mdo</a>.'
+description:         'Continous Learner'
 url:                 http://lanyon.getpoole.com
-baseurl:             ''
+baseurl:             '/'
 paginate:            5
 
 # About/contact
 author:
   name:              Andrew H. Lee
-  url:               https://twitter.com/andrew_h_lee
-  email:             andrew.lee87@hotmail.com
+  twitter:           'andrew_h_lee'
+  email:             'andrew.lee87[at]hotmail[dot]com'
+  github:            'andrew-h-lee'
+  behance:
+  linkedin:
 
 # Custom vars
 version:             1.0.0
+
+
+markdown:         kramdown
+highlighter:      rouge # changed from `pygments` as github says so
+
+# Permalinks
+permalink:        pretty

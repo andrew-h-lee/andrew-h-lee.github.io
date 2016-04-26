@@ -26,8 +26,17 @@
       {% endif %}
     {% endfor %}
     <a class="sidebar-nav-item" href="{{ site.github.repo }}">Contact Me</a>
-    <span class="sidebar-nav-item">Current </span>
 
+    <div id="contact-list" style="text-align:center">
+    {% if site.author.github %}
+      <a href="https://github.com/{{ site.author.github }}">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-github-alt fa-stack-1x"></i>
+        </span>
+      </a>
+    {% endif %}
+  </div>
   </nav>
 
   <div class="sidebar-item">
