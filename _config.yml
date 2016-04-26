@@ -10,7 +10,7 @@ title:               Andrew H. Lee
 tagline:             'Full Stack Web Developer'
 description:         'Continous Learner'
 url:                 http://lanyon.getpoole.com
-baseurl:             '/'
+baseurl:             ''
 paginate:            5
 
 # About/contact
