@@ -98,14 +98,16 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 1rem;
   margin-bottom: 3rem;
   border-bottom: 1px solid #eee;
+  background-color: #29324e;
 }
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #505050;
+  color: white;
+
 }
 .masthead-title a {
-  color: #505050;
+  color: white;
 }
 .masthead-title small {
   font-size: 75%;
@@ -483,7 +485,7 @@ a.pagination-item:hover {
 .theme-base-6s #sidebar-checkbox:checked ~ .sidebar-toggle {
   background-color: #29324e;
 }
-.theme-base-6s .container a,
+.theme-base-6s .container,
 .theme-base-6s .sidebar-toggle,
 .theme-base-6s .related-posts li a:hover {
   color: #29324e;
