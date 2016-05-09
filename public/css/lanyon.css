@@ -467,23 +467,14 @@ a.pagination-item:hover {
   color: #75b5aa;
 }
 
-/* Blue */
-.theme-base-0d .sidebar,
-.theme-base-0d .sidebar-toggle:active,
-.theme-base-0d #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #6a9fb5;
-}
-.theme-base-0d .container a,
-.theme-base-0d .sidebar-toggle,
-.theme-base-0d .related-posts li a:hover {
-  color: #6a9fb5;
+/* SeaHawk Dark Blue */
+.theme-base-6s .sidebar {
+  background-color: #29324e;
 }
 
-/* SeaHawk Dark Blue */
-.theme-base-6s .sidebar,
 .theme-base-6s .sidebar-toggle:active,
 .theme-base-6s #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #29324e;
+  background-color: #39ff14;
 }
 .theme-base-6s .container,
 .theme-base-6s .sidebar-toggle,
