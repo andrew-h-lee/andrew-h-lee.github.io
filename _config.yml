@@ -12,7 +12,7 @@ pages_list:
 # Setup
 title:               Andrew H. Lee
 tagline:             'Full Stack Web Developer'
-description:         'Welcome to My Site. Continous Learner.'
+description:         'Welcome to My Site.  Full Stack Web Developer based in Sydney. Continous Learner.'
 url:                 http://github.com/andrew-h-lee
 baseurl:             ''
 paginate:            5
