@@ -234,17 +234,17 @@
   border-color: #2c4762;
   color: #fff
 }
-.hb-rss, .hb-rss:after, .hb-rss:before {
+.hb-envelope, .hb-envelope:after, .hb-envelope:before {
   background: #da5700;
   border-color: #da5700;
   color: #fff
 }
-.hb-rss-inv, .hb-rss-inv:after, .hb-rss-inv:before, .hb-rss:hover, .hb-rss:hover:after, .hb-rss:hover:before {
-  background: 0 0;
+.hb-envelope-inv, .hb-envelope-inv:after, .hb-envelope-inv:before, .hb-envelope:hover, .hb-envelope:hover:after, .hb-envelope:hover:before {
+  background: #fff;
   border-color: #da5700;
   color: #da5700
 }
-.hb-rss-inv:hover, .hb-rss-inv:hover:after, .hb-rss-inv:hover:before {
+.hb-envelope-inv:hover, .hb-envelope-inv:hover:after, .hb-envelope-inv:hover:before {
   background: #da5700;
   border-color: #da5700;
   color: #fff
