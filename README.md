@@ -1,4 +1,4 @@
 
 # Portfolio: Displaying My Work
 
-* (Site => Work in Progress; will be continously updated)
+* (Site Still a Work in Progress; will be continously updated)
