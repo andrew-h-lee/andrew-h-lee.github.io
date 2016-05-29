@@ -91,7 +91,7 @@
   height: 18.5px;
   width: 32px
 }
-.hb-lg-margin, .hb-md-margin, .hb-sm-margin, .hb-xs-margin {
+/*.hb-lg-margin, .hb-md-margin, .hb-sm-margin, .hb-xs-margin {
   margin: 15px;
   display: inline-block;
   overflow: hidden
@@ -111,7 +111,7 @@
 .hb-xs-margin {
   height: 50px;
   width: 32px
-}
+}*/
 .spin, .spin-icon i {
   -webkit-transition: -webkid-transform .25s ease;
   -moz-transition: -moz-transform .25s ease;
