@@ -75,7 +75,7 @@ a strong {
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
-  
+
 }
 
 /* Headings */
@@ -257,7 +257,7 @@ tbody tr:nth-child(odd) th {
  * or to a parent if there are multiple elements to show.
  */
 
-.message {
+.message p ul li {
   margin-bottom: 1rem;
   padding: 1rem;
   color: #717171;
