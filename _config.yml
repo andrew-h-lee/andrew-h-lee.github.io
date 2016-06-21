@@ -4,6 +4,7 @@
 permalink:           pretty
 gems :
   - jekyll-paginate
+  - jekyll-seo-tag
 pages_list:
   About: '/about'
   Blog: '/blog'
