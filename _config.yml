@@ -13,7 +13,7 @@ pages_list:
 # Setup
 title:               Andrew H. Lee
 tagline:             'Full Stack Web Developer'
-description:         'Welcome to My Site.  Full Stack Web Developer based in Sydney. Continous Learner.'
+description:         'Welcome to My Site.  Full Stack Web Developer based in Sydney. Always Continuously Learning about Technology & Web Development.'
 url:                 http://github.com/andrew-h-lee
 baseurl:             ''
 paginate:            5
@@ -24,7 +24,7 @@ author:
   twitter:           andrew_h_lee
   linkedin:          andrewhylee
   github:            andrew-h-lee
-  behance:           ahlee87
+  behance:           andrew-h-lee
   email:             'andrew.lee87@hotmail.com'
 
 # Custom vars
