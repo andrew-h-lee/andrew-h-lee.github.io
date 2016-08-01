@@ -8,32 +8,35 @@
  *    \/____/\/__/\/_/\/_/\/_/`/___/> \/___/  \/_/\/_/
  *                               /\___/
  *                               \/__/
- *
+ -----------------------------------------------------------
  * Designed, built, and released under MIT license by @mdo.
  * Learn more at https://github.com/poole/lanyon.
  * Personal Custom Version: August 2, 2016 by @andrew-h-lee
+ -----------------------------------------------------------
  */
 
 
 /*
  * CONTENTS
+ ---------------------
  * Body Resets
  * Wrapper
  * Messages
  * Container
  * Masthead
- * Posts and Pages
+ * Posts & Pages
  * Pagination
  * Sidebar
  * Slide Effect
  * Custom Themes
  * Reverse Layout
+ ---------------------
  */
 
 
 /*
  * Body Resets
- *
+ ---------------------
  * Update the foundational and global aspects of the page.
  */
 
@@ -259,7 +262,7 @@ tbody tr:nth-child(odd) th {
 
 /*
  * Wrapper
- *
+ ---------------------
  * The wrapper is used to position site content when the sidebar is toggled. We
  * use an outter wrap to position the sidebar without interferring with the
  * regular page content.
@@ -273,7 +276,7 @@ tbody tr:nth-child(odd) th {
 
 /*
  * Messages
- *
+ ---------------------
  * Show alert messages to users. You may add it to single elements like a `<p>`,
  * or to a parent if there are multiple elements to show.
  */
@@ -287,7 +290,7 @@ tbody tr:nth-child(odd) th {
 
 /*
  * Container
- *
+ ---------------------
  * Center the page content.
  */
 
@@ -312,7 +315,7 @@ tbody tr:nth-child(odd) th {
 
 /*
  * Masthead
- *
+ ---------------------
  * Super small header above the content for site name and short description.
  */
 
@@ -349,8 +352,8 @@ tbody tr:nth-child(odd) th {
 }
 
 /*
- * Posts and Pages
- *
+ * Posts & Pages
+ ---------------------
  * Each post is wrapped in `.post` and is used on default and post layouts. Each
  * page is wrapped in `.page` and is only used on the page layout.
  */
@@ -407,7 +410,7 @@ tbody tr:nth-child(odd) th {
 
 /*
  * Pagination
- *
+ ---------------------
  * Super lightweight (HTML-wise) blog pagination. `span`s are provide for when
  * there are no more previous or next posts to show.
  */
@@ -459,7 +462,7 @@ a.pagination-item:hover {
 
 /*
  * Sidebar
- *
+ ---------------------
  * The sidebar is the drawer, the item we are toggling with our handy hamburger
  * button in the corner of the page.
  *
@@ -595,7 +598,7 @@ a.sidebar-nav-item:focus {
 }
 
 /* Slide Effect
- *
+ ---------------------
  * Handle the sliding effects of the sidebar and content in one spot, seperate
  * from the default styles.
  *
@@ -634,7 +637,7 @@ a.sidebar-nav-item:focus {
 
 /*
  * Custom Themes
- *
+ ---------------------
  * Apply custom color schemes by adding the appropriate class to the `body`.
  * Based on colors from Base16: http://chriskempson.github.io/base16/#default.
  */
@@ -680,7 +683,7 @@ a.sidebar-nav-item:focus {
 
 /*
  * Reverse Layout
- *
+ ---------------------
  * Flip the orientation of the page by placing the `.sidebar` and sidebar toggle
  * on the right side.
  */
