@@ -15,21 +15,17 @@
 
 
 /*
- * Contents
- * Body resets
- * Custom type
+ * CONTENTS
+ * Body Resets
  * Messages
  * Container
- * Masthead
- * Posts and pages
+ * Posts and Pages
  * Pagination
- * Reverse layout
- * Themes
  */
 
 
 /*
- * Body resets
+ * Body Resets
  *
  * Update the foundational and global aspects of the page.
  */
@@ -277,9 +273,19 @@ tbody tr:nth-child(odd) th {
   margin-left:  auto;
   margin-right: auto;
 }
+@media (min-width: 38em) {
+  .container {
+    max-width: 32rem;
+  }
+}
+@media (min-width: 56em) {
+  .container {
+    max-width: 38rem;
+  }
+}
 
 /*
- * Posts and pages
+ * Posts and Pages
  *
  * Each post is wrapped in `.post` and is used on default and post layouts. Each
  * page is wrapped in `.page` and is only used on the page layout.
