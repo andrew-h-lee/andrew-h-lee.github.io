@@ -8,6 +8,4 @@ title: About
   The Aim of this Personal Website
 </p>
 
-
-
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* Toggleable sliding sidebar (built with only CSS) via **☰** link in top corner
