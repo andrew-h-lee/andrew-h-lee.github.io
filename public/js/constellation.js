@@ -1,9 +1,8 @@
-/* SECTION: Constellation Function 
+/* SECTION: Constellation Function
  * Require: EasePack.min.js & TweenLite.min.js by GreenSock Platform.
  * LINK: http://greensock.com
  */
 
-(function() {
 
     var width, height, largeHeader, canvas, ctx, points, target, animateHeader = true;
 
@@ -186,10 +185,9 @@
     function getDistance(p1, p2) {
         return Math.pow(p1.x - p2.x, 2) + Math.pow(p1.y - p2.y, 2);
     }
-    
-})();
 
-/* SECTION: requestAnimationFrame polyfill 
+
+/* SECTION: requestAnimationFrame polyfill
  * Authors: Erik Möller, fixes from Paul Irish & Tino Zijdel.
  * Original File Name: paulirish/rAF.js
  * Link: http://paulirish.com/2011/requestanimationframe-for-smart-animating/
