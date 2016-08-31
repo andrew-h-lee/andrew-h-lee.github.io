@@ -4,8 +4,8 @@
 * NOTE: Site Still a Work in Progress; will be continously updated
 
 ## Need to Add:
-*[Image Hover Effect](https://miketricking.github.io/dist/)
-*[Spectre CSS Lightweight Framework](https://picturepan2.github.io/spectre/)
+* [Image Hover Effect](https://miketricking.github.io/dist/)
+* [Spectre CSS Lightweight Framework](https://picturepan2.github.io/spectre/)
 
 
 ## Former Source Reference
