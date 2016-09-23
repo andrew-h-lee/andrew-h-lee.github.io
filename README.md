@@ -8,6 +8,9 @@
 * [Material Design Lite Framework](https://getmdl.io/)
 * [Spectre CSS Lightweight Framework](https://picturepan2.github.io/spectre/)
 
+## Proposal:
+* [VueJS](https://vuejs.org/)
+
 
 ## Former Source Reference
 * [Poole Theme](https://github.com/poole/poole)
