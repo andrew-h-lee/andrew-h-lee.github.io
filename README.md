@@ -10,6 +10,7 @@
 
 ## Proposal:
 * [VueJS](https://vuejs.org/)
+* Card Gallery??
 
 
 ## Former Source Reference
