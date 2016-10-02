@@ -4,8 +4,7 @@ title: About
 ---
 
 <p class="message">
-  Hey there!
-  The Aim of this Personal Website
+  Welcome, I write this Blog, to share my insights for Web Development within the Broader Community.
 </p>
 
 * Toggleable sliding sidebar (built with only CSS) via **☰** link in top corner
