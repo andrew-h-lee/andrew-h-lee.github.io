@@ -281,7 +281,7 @@ tbody tr:nth-child(odd) th {
  * or to a parent if there are multiple elements to show.
  */
 
-.message p ul li {
+.message {
   margin-bottom: 1rem;
   padding: 1rem;
   color: #717171;
