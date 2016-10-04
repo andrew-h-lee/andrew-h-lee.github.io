@@ -6,10 +6,11 @@
 ## Need to Add:
 * [Image Hover Effect](https://miketricking.github.io/dist/)
 * [Material Design Lite Framework](https://getmdl.io/)
-* [Spectre CSS Lightweight Framework](https://picturepan2.github.io/spectre/)
+* [Hero Patterns](http://www.heropatterns.com/)
 
 ## Proposal:
 * [VueJS](https://vuejs.org/)
+* [Spectre CSS Lightweight Framework](https://picturepan2.github.io/spectre/)
 * Card Gallery??
 
 
