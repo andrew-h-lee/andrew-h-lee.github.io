@@ -9,9 +9,9 @@
 * [Hero Patterns](http://www.heropatterns.com/)
 
 ## Proposal:
-* [VueJS](https://vuejs.org/)
+* [VueJS (Version 2.0)](https://vuejs.org/)
 * [Spectre CSS Lightweight Framework](https://picturepan2.github.io/spectre/)
-* Card Gallery??
+* Install Card Gallery??
 
 
 ## Former Source Reference
