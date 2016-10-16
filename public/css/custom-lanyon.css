@@ -668,7 +668,7 @@ a.sidebar-nav-item:focus {
 /* SeaHawk Dark Blue */
 .theme-base-6s .sidebar {
   background-color: #29324e;
-  background-image: url("/public/img/circuit.svg");
+/*background-image: url("/public/img/circuit.svg");*/
 }
 
 .theme-base-6s .sidebar-toggle:active,
