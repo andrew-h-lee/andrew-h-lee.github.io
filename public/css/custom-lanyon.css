@@ -499,6 +499,7 @@ a.pagination-item:hover {
 .sidebar a {
   font-weight: normal;
   color: #39FF14;
+  /*text-shadow: 2px 2px 3px red;*/
 }
 .sidebar-item {
   padding: 1rem;
@@ -667,6 +668,7 @@ a.sidebar-nav-item:focus {
 /* SeaHawk Dark Blue */
 .theme-base-6s .sidebar {
   background-color: #29324e;
+  background-image: url("/public/img/circuit.svg");
 }
 
 .theme-base-6s .sidebar-toggle:active,
