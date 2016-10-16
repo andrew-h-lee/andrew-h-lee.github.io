@@ -7,6 +7,7 @@
 * [Image Hover Effect](https://miketricking.github.io/dist/)
 * [Material Design Lite Framework](https://getmdl.io/)
 * [Hero Patterns](http://www.heropatterns.com/)
+* Comment Feature
 
 ## Proposal:
 * [VueJS (Version 2.0)](https://vuejs.org/)
