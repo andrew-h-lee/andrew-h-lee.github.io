@@ -55,6 +55,12 @@
   </a>
   {% endif %}
 
+  {% if site.author.medium %}
+  <a href="https://medium.com/{{ site.author.medium }}">
+    <span class="hb hb-sm spin hb-medium"><i class="fa fa-medium"></i></span></a>
+  </a>
+  {% endif %}
+
   {% if site.author.email %}
   <a href="mailto:{{ site.author.email }}">
     <span class="hb hb-sm spin hb-envelope"><i class="fa fa-envelope"></i></span></a>
