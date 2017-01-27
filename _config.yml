@@ -9,7 +9,6 @@ pages_list:
   About: '/about'
   Blog: '/blog'
   Portfolio: '/portfolio'
-  Resume: '/resume'
   Feed: '/atom.xml'
 
 # Setup
