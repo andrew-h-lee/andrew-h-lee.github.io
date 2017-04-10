@@ -5,6 +5,7 @@
 layout: style
 ---
 ##
+
 	Author: Carlos Alvarez
 	URL: http://alvarez.is
 
@@ -30,7 +31,7 @@ body {
 	background: #ffffff;
 	margin: 0;
 	height: 100%;
-	color: "#29324e";
+	color: #29324e;
 	font-family: 'Lato', sans-serif;
 	font-weight: 400;
 	font-size: 16px;
@@ -48,7 +49,7 @@ p {
 	font-weight: 400;
 	font-size: 16px;
 	line-height: 24px;
-	color: "#29324e";
+	color: #29324e;
 	margin-top: 10px;
 }
 
@@ -68,7 +69,7 @@ ol {
 }
 
 a {
-  color:"#428bca";
+  color:#428bca;
   padding: 0;
 	margin: 0;
 	text-decoration: none;
@@ -81,18 +82,18 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  color:"#01b2fe";
+  color:#01b2fe;
 }
 
 ::-moz-selection  {
 	color: #fff;
 	text-shadow:none;
-	background:"#29324e";
+	background:#29324e;
 }
 ::selection {
 	color: #fff;
 	text-shadow:none;
-	background:"#29324e";
+	background:#29324e;
 }
 
 .centered {
@@ -126,21 +127,21 @@ a:focus {
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-	color: "#39FF14";
+	color: #39FF14;
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: "#39FF14";
+	color: #39FF14;
 	background-color: transparent;
 }
 
 .navbar-default {
-	background-color: "#29324e";
+	background-color: #29324e;
 	border-color: transparent;
 }
 
 .dropdown-menu {
-	background: "#29324e";
+	background: #29324e;
 }
 
 .dropdown-menu > li > a {
@@ -151,8 +152,8 @@ a:focus {
 
 .btn-theme {
   color: #fff;
-  background-color: "#29324e";
-  border-color: "#29324e";
+  background-color: #29324e;
+  border-color: #29324e;
   margin: 4px;
 }
 .btn-theme:hover,
@@ -161,15 +162,15 @@ a:focus {
 .btn-theme.active,
 .open .dropdown-toggle.btn-theme {
   color: #fff;
-  background-color: "#39FF14";
-  border-color: "#39FF14";
+  background-color: #39FF14;
+  border-color: #39FF14;
 }
 
 .dmbutton:hover,
 .dmbutton:active,
 .dmbutton:focus{
 	color: #ffffff;
-	background-color: {{ site.colors.link_hover }};
+	background-color: #01b2fe;
 	border-color: #ffffff;
 }
 .dmbutton {
@@ -212,7 +213,7 @@ a:focus {
 }
 
 .hline {
-	border-bottom: 2px solid {{ site.colors.secondary }};
+	border-bottom: 2px solid #29324e;
 }
 
 .hline-w {
@@ -253,7 +254,7 @@ a:focus {
 }
 
 #service i {
-	color: {{ site.colors.primary }};
+	color: #39FF14;
 	font-size: 60px;
 	padding: 15px;
 }
@@ -301,8 +302,8 @@ a:focus {
 {
 	height:100%;
 	width:100%;
-	background-color:{{ site.colors.primary }};
-	background-color:rgba({{ site.colors.primary_rgb }},.9);
+	background-color:#39FF14;
+	background-color:rgba(#00b3fe,.9);
 	text-align:center;
 }
 
@@ -310,24 +311,24 @@ a:focus {
 #footerwrap {
 	padding-top: 60px;
 	padding-bottom: 60px;
-	background: {{ site.colors.secondary }};
+	background: #29324e;
 }
 
 #footerwrap p {
-	color: {{ site.colors.footer_content }};
+	color: #bfc9d3;
 }
 
 #footerwrap h4 {
-	color: {{ site.colors.footer_heading }};
+	color: #ffffff;
 }
 
 #footerwrap i {
 	font-size: 38px;
-	color: {{ site.colors.footer_content }};
+	color: #bfc9d3;
 }
 
 #footerwrap i:hover {
-	color: {{ site.colors.primary }}
+	color: #39FF14
 }
 
 /*	################################################################
@@ -372,7 +373,7 @@ a:focus {
 }
 
 .ctitle {
-	color: {{ site.colors.primary }};
+	color: #39FF14;
 	font-weight: 700;
 	margin-bottom: 15px;
 }
@@ -388,7 +389,7 @@ csmall {
 }
 
 .badge-theme {
-	background: {{ site.colors.primary }};
+	background: #39FF14;
 }
 
 /* Contact Page */
