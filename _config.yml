@@ -1,0 +1,73 @@
+### GENERAL SETTINGS ###
+
+# Site settings
+title: Andrew H. Lee
+tagline: 'Full Stack Web Developer'
+description: "Welcome to My Site.  Full Stack Web Developer based in Sydney. Always Continuously Learning about Technology & Web Development."
+analytics: #Google analytics code in the format XX-nnnnnnnn-n
+baseurl: "" #important: start with /
+url: "http://github.com/andrew-h-lee"
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title
+excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+
+colors:  #in hex code if not noted else
+  primary: "#39FF14"
+  primary_rgb: "#00b3fe"  #rgb of the primary. Needed in some places for the transparency effect.
+  secondary:  "#29324e"
+  link: "#428bca"
+  link_hover: "#01b2fe"
+  footer_heading: "#ffffff"
+  footer_content: "#bfc9d3"
+
+### CONTACT SETTINGS ###
+
+# Social Networks
+author:
+  twitter:           "andrew_h_lee"
+  medium:            "@Andrew_H_Lee"
+  linkedin:          "andrewhylee"
+  github:            "andrew-h-lee"
+  behance:           "andrew-h-lee"
+  email:             'mr.ahlee@gmail.com'
+
+# Postal address (add as many lines as necessary). Shown in footer and on Contact page.
+#address:
+#  - lines:
+#    - Street,
+#    - City,
+#    - Country.
+#email: @email.com
+#tel:
+
+
+### GENERAL DATA FOR VARIOUS LOCATIONS ###
+
+# Members information. Shown on About page.
+#members:
+#  - name:
+#    position:
+#    text: Lorem Ipsum
+#    img: file.jpg
+#    social:
+#      - title: envelope #use for email address
+#        url: mailto:name@domain.com
+#      - title: twitter
+#        url: http://twitter.com/handle
+
+
+# Clients information. Shown on Home & About pages.
+#clients:
+#  - name:
+#    img: file.png
+
+# Short text About Brand. Shown in footer on every page & also separately on Home and Contact page.
+# about: "Lorem"
+
+# Testimonial content. Shown on Home & About page.
+#testimonial:
+#    message: ""
+#    author:
+#    position:
