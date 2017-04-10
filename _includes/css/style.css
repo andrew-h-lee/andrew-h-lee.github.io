@@ -1,5 +1,10 @@
 /*	################################################################
 
+## OLD Setting
+---
+layout: style
+---
+##
 	Author: Carlos Alvarez
 	URL: http://alvarez.is
 
@@ -156,8 +161,8 @@ a:focus {
 .btn-theme.active,
 .open .dropdown-toggle.btn-theme {
   color: #fff;
-  background-color: {{ site.colors.primary }};
-  border-color: {{ site.colors.primary }};
+  background-color: "#39FF14";
+  border-color: "#39FF14";
 }
 
 .dmbutton:hover,
