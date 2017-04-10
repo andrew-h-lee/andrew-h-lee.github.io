@@ -1,6 +1,7 @@
 /*	################################################################
+Origin File: _includes/css/styles.css
 
-## OLD Setting
+## OLD Setting:
 ---
 layout: style
 ---
@@ -14,8 +15,8 @@ layout: style
 	URL: http://alvarez.is
 
 ################################################################# */
-@import url(http://fonts.googleapis.com/css?family=Raleway:400,700,900);
-@import url(http://fonts.googleapis.com/css?family=Lato:400,900);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,700,900);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,900);
 @import url("prettyPhoto.css") screen;
 @import url("hoverex-all.css") screen;
 
