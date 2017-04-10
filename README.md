@@ -1,7 +1,7 @@
 Portfolio Website: Displaying My Work
 ============
 
-#####Blog post
+##### Blog post
 Create a Blog post by creating a file called `yyyy-mm-dd-name-of-post-like-this.markdown` in the `/_posts/blog/` directory with the following template:
 ```markdown
 ---
@@ -21,7 +21,7 @@ This text will appear in the excerpt "post preview" on the Blog page that lists 
 <!--more-->
 This text will not be shown in the excerpt because it is after the excerpt separator.
 ```
-#####Project post
+##### Project post
 Create a Project post to go in your Portfolio by creating a file called `yyyy-mm-dd-name-of-the-project.markdown` in the `/_posts/project/` directory with the following template:
 ```markdown
 ---
@@ -54,4 +54,3 @@ If there are problems with loading assets like CSS files and images, make sure t
 * [Blacktie](http://www.blacktie.co/)
 * [Hexagon Buttons](https://github.com/shariarbd/CSS3-Hexagon-Buttons)
 * [Solid Theme](http://www.blacktie.co/2014/05/solid-multipurpose-theme/)
-
