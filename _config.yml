@@ -1,7 +1,7 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: Andrew H. Lee
+title: 
 tagline: 'Full Stack Web Developer'
 description: "Welcome to My Site.  Full Stack Web Developer based in Sydney. Always Continuously Learning about Technology & Web Development."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
@@ -29,7 +29,7 @@ author:
   linkedin:          "andrewhylee"
   github:            "andrew-h-lee"
   behance:           "andrew-h-lee"
-  email:             'mr.ahlee@gmail.com'
+  email:             
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 #address:
