@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome To My Blog"
 date: 2017-04-10
-author: Andrew H. Lee
+author: 
 categories:
 - blog
 - Introduction
