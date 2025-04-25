@@ -6,7 +6,7 @@ tagline: 'Full Stack Web Developer'
 description: "Welcome to My Site.  Full Stack Web Developer based in Sydney. Always Continuously Learning about Technology & Web Development."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://github.com/andrew-h-lee"
+url: ""
 
 # Build settings
 markdown: kramdown
